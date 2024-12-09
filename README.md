@@ -188,5 +188,6 @@ If you are interested in contributing to EvalAI, follow our [contribution guidel
 <a href="https://github.com/bosecodes"><img src="https://avatars.githubusercontent.com/u/39362431?v=4" title="bosecodes" width="50" height="50"></a>
 <a href="https://github.com/tashachin"><img src="https://avatars.githubusercontent.com/u/27714199?v=4" title="tashachin" width="50" height="50"></a>
 <a href="https://github.com/gitter-badger"><img src="https://avatars.githubusercontent.com/u/8518239?v=4" title="gitter-badger" width="50" height="50"></a>
+<a href="https://github.com/Sudhanshu727"><img src="https://avatars.githubusercontent.com/u/190498232?s=400&v=4" title="gitter-badger" width="50" height="50"></a>
 
 [//]: contributor-faces
